@@ -15,7 +15,7 @@ body {
 }
 
 .content {
-    justify-content: center;
+    text-align: center;
     padding: 20px;
     background-color: #fff;
     border-radius: 10px;
