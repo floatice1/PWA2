@@ -11,10 +11,11 @@ body {
     min-height: 100vh;
     background-color: #f0f0f0;
     color: #333;
+    overflow: hidden;
 }
 
 .content {
-    justify-items: center;
+    justify-content: center;
     padding: 20px;
     background-color: #fff;
     border-radius: 10px;
